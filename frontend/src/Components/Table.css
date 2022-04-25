@@ -1,0 +1,8 @@
+#forma{
+    display:flex;
+}
+
+#forma form input{
+    padding-right: 100px;
+    /*width:30px;*/
+}
